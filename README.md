@@ -1,6 +1,6 @@
-# Order Management Microservices
+# Microservices Tutorial Saga Orchestration
 
-Order Management Microservices, sipariş yönetimi, ödeme işlemleri ve stok yönetimi için yazılmış bir .NET Core mikroservis uygulamasıdır. Bu proje, siparişlerin oluşturulması, güncellenmesi ve tamamlanması süreçlerini yönetir. Ayrıca, ödeme ve stok yönetimi süreçleri de entegre edilmiştir.
+Microservices Tutorial Saga Orchestration, sipariş yönetimi, ödeme işlemleri ve stok yönetimi için yazılmış bir .NET Core mikroservis uygulamasıdır. Bu proje, siparişlerin oluşturulması, güncellenmesi ve tamamlanması süreçlerini yönetir. Ayrıca, ödeme ve stok yönetimi süreçleri de entegre edilmiştir.
 
 ## Özellikler
 
